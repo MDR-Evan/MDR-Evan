@@ -7,7 +7,7 @@
 -->
 
 <!--        <img src="https://capsule-render.vercel.app/api?type={원하는 타입}&옵션1={옵션}&···&옵션n={옵션}        -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=BD7EFF&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&fontColor=bd7eff)"/>
 **MDR-Evan/MDR-Evan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
