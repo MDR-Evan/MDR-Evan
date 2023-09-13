@@ -28,7 +28,7 @@
 <details>
     <summary>사용 Tool</summary>
 <img width="100" height="100" src="https://img.icons8.com/color/100/solidworks.png" alt="solidworks"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/-Autodesk%20Inventor%20Pro-D9AE06%3Fstyle%3Dflat--square">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Autodesk%20Inventor%20Pro-D9AE06%3Fstyle%3Dflat-square">
 
 </details>
 
