@@ -49,7 +49,7 @@
 <div align="center">
     
 <img src="https://github-readme-stats.vercel.app/api?username=MDR-Evan&show_icons=true&theme=holi">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDR-Evan&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDR-Evan&show_icons=true&theme=holi">
 
 </div>
 
