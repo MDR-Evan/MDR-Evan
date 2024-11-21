@@ -1,8 +1,7 @@
 <div align="center">
 <details>
-    <summary># 김진용 포트폴리오</summary>
+    <summary>포트폴리오</summary>
     
-
     ## 소개
     - **이름**: 김진용  
     - **소개**: 상상으로 꿈꾸는 것을 현실로 구현하는 것을 좋아하는 학생입니다.  
@@ -10,7 +9,7 @@
     - **GitHub**: [https://github.com/MDR-Evan](https://github.com/MDR-Evan)  
 
     ---
-
+    
     ## 프로젝트
     ### 대학교 캡스톤디자인 지원
     - **시제품 제작 2건**: Inventor, Arduino  
@@ -53,6 +52,7 @@
 </details>
 <details>
     <summary>자격</summary>
+
   |취득년월일|자격증|발령청|
   |------|---|---|
   |2021.12.24|컴퓨터응용선반기능사|한국인력산업공단|
