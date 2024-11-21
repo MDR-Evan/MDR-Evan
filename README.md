@@ -1,49 +1,69 @@
+<summary>포트폴리오</summary>
+<h1>포트폴리오</h1>
+        
+<section>
+    <h2>소개</h2>
+    <ul>
+        <ol><strong>이름</strong>: 김진용</ol>
+        <ol><strong>소개</strong>: 상상으로 꿈꾸는 것을 현실로 구현하는 것을 좋아하는 학생입니다.</ol>
+        <ol><strong>연락처</strong>: <a href="mailto:kjy040216@kbu.ac.kr">kjy040216@kbu.ac.kr</a></ol>
+        <ol><strong>GitHub</strong>: <a href="https://github.com/MDR-Evan" target="_blank">https://github.com/MDR-Evan</a></ol>
+    </ul>
+</section>
+        
+<hr>
+        
+<section>
+    <h2>프로젝트</h2>
+    <h3>대학교 캡스톤디자인 지원</h3>
+    <ul>
+        <ol><strong>시제품 제작</strong>: 2건</ol>
+        <ol><strong>프로그램 제작</strong>: 1건</ol>
+        <ol><strong>기술 지원</strong>: 3건</ol>
+        <ol><strong>성과</strong>: 대회 수상</ol>
+    </ul>
+    <h3>기업 저작권 등록을 위한 시제품 제작</h3>
+    <ul>
+        <ol><strong>역할</strong>: 제품 디자인 및 설계, 제작</ol>
+        <ol><strong>사용 기술</strong>: Inventor, Arduino</ol>
+    </ul>
+</section>
+        
+<hr>
+
+<section>
+    <h2>기술 스택</h2>
+    <ul>
+        <ol><strong>프로그래밍 언어</strong>: Java, Python, Arduino</ol>
+        <ol><strong>3D 모델링 툴</strong>: Inventor, SolidWorks</ol>
+        <ol><strong>기타 기술</strong>: 3D 프린팅, 제품 설계, 하드웨어 제작</ol>
+    </ul>
+</section>
+
+<hr>
+
+<section>
+    <h2>자격증 및 성과</h2>
+    <ul>
+        <ol>3D프린팅운용기능사</ol>
+        <ol>전기기능사</ol>
+        <ol>컴퓨터응용밀링기능사</ol>
+        <ol>컴퓨터응용선반기능사</ol>
+    </ul>
+</section>
+
+<hr>
+
+<section>
+    <h2>기타 외주</h2>
+    <ul>
+        <ol><strong>개인 의뢰</strong></ol>
+        <ol>개인 제작 의뢰품 제작</ol>
+        <ol><strong>기업 및 졸업작품 시제품 제작</strong></ol>
+    </ul>
+</section>
+
 <div align="center">
-<details>
-    <summary>포트폴리오</summary>
-    
-    ## 소개
-    - **이름**: 김진용  
-    - **소개**: 상상으로 꿈꾸는 것을 현실로 구현하는 것을 좋아하는 학생입니다.  
-    - **연락처**: [kjy040216@kbu.ac.kr](mailto:kjy040216@kbu.ac.kr)  
-    - **GitHub**: [https://github.com/MDR-Evan](https://github.com/MDR-Evan)  
-
-    ---
-    
-    ## 프로젝트
-    ### 대학교 캡스톤디자인 지원
-    - **시제품 제작 2건**: Inventor, Arduino  
-    - **프로그램 제작 1건**: Inventor, Arduino  
-    - **기술 지원 3건**: Inventor, Arduino  
-    - **성과**: 대회 수상  
-
-    ### 기업 저작권 등록을 위한 시제품 제작
-    - **역할**: 제품 디자인 및 설계, 제작  
-    - **사용 기술**: Inventor, Arduino  
-
-    ---
-
-    ## 기술 스택
-    - **프로그래밍 언어**: Java, Python, Arduino  
-    - **3D 모델링 툴**: Inventor, SolidWorks  
-    - **기타 기술**: 3D 프린팅, 제품 설계, 하드웨어 제작  
-
-    ---
-
-    ## 자격증 및 성과
-    - 3D프린팅운용기능사  
-    - 전기기능사  
-    - 컴퓨터응용밀링기능사  
-    - 컴퓨터응용선반기능사  
-
-    ---
-
-    ## 기타 외주
-    - **개인 의뢰**  
-    - 개인 제작 의뢰품 제작  
-    - **기업 및 졸업작품 시제품 제작**
-    """
-</details>
 
 <details>
   <summary>학력</summary>
